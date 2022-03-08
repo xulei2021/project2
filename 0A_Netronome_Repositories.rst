@@ -60,9 +60,9 @@ Update repository lists::
 
 * 无序列表 **（内容前加星号和一个空格）**
   
- * 1 
- * 2
- * 3
+ * fall 
+ * because of you
+ * nothing to lose
 
 * 有序列表 **（内容前加井号、一个点和一个空格）**
 
@@ -80,12 +80,8 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 一级标题
 ^^^^^^^^^^^^^
 
-..note:: This is
-  This is the
-  
-  -The note contains 
-  -including xxxx.
-
+ :dudir:`note`
+        xxxxx
 
 
 
