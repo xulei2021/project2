@@ -67,4 +67,4 @@ Update repository lists::
  #. 222
  #. 333
   
-For details, see < https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3 >
+For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
