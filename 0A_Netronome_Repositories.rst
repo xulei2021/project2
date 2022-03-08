@@ -53,5 +53,5 @@ Update repository lists::
     # apt-get update
 
 
-*This is a note.
-*It is so cute.
+#. This is a note.
+#. This is a warning.
