@@ -73,7 +73,7 @@ Update repository lists::
 For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
 
-(执行命令文本框可用下面的)请参见以下示例:: 
+**(执行命令文本框可用下面的)**请参见以下示例:: 
 
  xxxxxxxxxxxx
  
