@@ -79,7 +79,7 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
  
 说明
 
-..note:
+..note::
 
   以上命令需要在xxx情况下使用
  
