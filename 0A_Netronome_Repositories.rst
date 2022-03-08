@@ -80,10 +80,12 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 一级标题
 ^^^^^^^^^^^^^
 
-说明::
+..note:: This is
+  This is the
+  
+  -The note contains 
+  -including xxxx.
 
- xxxxxxxxxx
- 
 
 
 
