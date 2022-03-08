@@ -53,6 +53,9 @@ Update repository lists::
     # apt-get update
 
 
+学习样式
+----------
+
 列表样式
 
 * 无序列表 **（内容前加星号和一个空格）**
@@ -69,12 +72,16 @@ Update repository lists::
   
 For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
-Title
---------------
 
-请参看以下示例:: 
+请参见以下示例:: 
 
  xxxxxxxxxxxx
+ 
+说明
+
+..note:
+
+  以上命令需要在xxx情况下使用
  
 
 
