@@ -56,7 +56,7 @@ Update repository lists::
 * This is a note.
 * This is a warning.
 
-   * It has two items.
-   * It is a xxx.
+* It has two items.
+* It is a xxx.
 
 * This girl is called xxx.
