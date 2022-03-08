@@ -53,5 +53,10 @@ Update repository lists::
     # apt-get update
 
 
-#. This is a note.
-#. This is a warning.
+* This is a note.
+* This is a warning.
+
+   * It has two items.
+   * It is a xxx.
+
+* This girl is called xxx.
