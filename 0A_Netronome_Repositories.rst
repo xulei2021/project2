@@ -76,17 +76,6 @@ Title
 
  xxxxxxxxxxxx
  
-Part
-#######
-
-Chapter
-***********
-
-Section
-===========
-
-小节
-----------
 
 
 
