@@ -53,10 +53,18 @@ Update repository lists::
     # apt-get update
 
 
-* This is a note.
-* This is a warning.
+列表样式
 
- * It has two items.
- * It is a xxx.
+* 无序列表
+  
+ * 1 
+ * 2
+ * 3
 
-* This girl is called **gejiabei**.
+* 有序列表
+
+ #. 111
+ #. 222
+ #. 333
+  
+For details, see < https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3 >
