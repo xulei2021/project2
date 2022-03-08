@@ -55,13 +55,13 @@ Update repository lists::
 
 列表样式
 
-* 无序列表 *（内容前加星号和一个空格）*
+* 无序列表 **（内容前加星号和一个空格）**
   
  * 1 
  * 2
  * 3
 
-* 有序列表 *（内容前加＃号、一个点和一个空格）*
+* 有序列表 **（内容前加井号、一个点和一个空格）**
 
  #. 111
  #. 222
@@ -72,7 +72,7 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 Title
 ======
 
-请参看以下示例:: *（下面内容必须缩进）*
+请参看以下示例:: **（下面内容必须缩进）**
 
  It is not processed in any way, except that the 
 
