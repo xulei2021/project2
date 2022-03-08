@@ -70,7 +70,7 @@ Update repository lists::
 For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
 Title
-============
+--------------
 
 请参看以下示例:: 
 
