@@ -74,11 +74,7 @@ Title
 
 请参看以下示例:: 
 
- # lspci -Dkd 19ee:4000
- 0000:04:00.0 Ethernet controller: Netronome Systems, Inc. Device 4000
-     Subsystem: Netronome Systems, Inc. Device 4001
-     Kernel driver in use: nfp
-     Kernel modules: nfp
+ xxxxxxxxxxxx
  
 Part
 #######
