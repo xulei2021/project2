@@ -1,0 +1,49 @@
+rst文件编辑
+=============
+
+学习如何编辑rst文件
+
+1.1 列表样式
+------------
+
+**无序列表 **
+
+（内容前加星号和一个空格）
+ 
+举例：
+ 
+ * 111111 
+ * 222222
+ * 333333
+
+**有序列表 **
+
+（内容前加井号、一个点和一个空格）
+
+举例：
+
+ #. 111
+ #. 222
+ #. 333
+ 
+2.1 超链接
+---------------
+ 
+For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
+
+2.2 插入文本框
+
+**执行命令文本框可用下面的** 
+
+举例：
+
+请参见以下示例:: 
+
+ # cat /sys/module/nfp/srcversion
+ 
+2.3 说明/注意事项
+---------------------
+
+.. note::
+
+    The ethtool interface is only available for hosts running kernel 4.16 or higher when using the in-tree driver. Please use the out of tree driver to enable ethtool flashing       on older kernels.
