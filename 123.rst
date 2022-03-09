@@ -52,8 +52,6 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 2.4 表格
 ----------------
 
-参数选项      描述信息
-
 -a            command-line option "a"
 -b file       options can have arguments and long descriptions
 --long        options can be long also
