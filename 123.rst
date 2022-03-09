@@ -39,9 +39,9 @@ For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`
 
 链接内部链接：
 
-For details, see 列表样式
+For details, see 列表样式_
 
-.._列表样式:
+.. _列表样式:
 
 2.2 插入文本框
 -------------------
