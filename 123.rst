@@ -31,6 +31,8 @@ rst文件编辑
  
 For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
+For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
+
 2.2 插入文本框
 -------------------
 
@@ -72,3 +74,6 @@ V2.0              2022-03-07       Modify note on the second chapter.
 V1.0              2022-03-01       The first release.
 
 ===============   ===========      ==================================
+
+2.5 
+-------------
