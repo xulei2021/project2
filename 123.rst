@@ -59,14 +59,16 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 --input=file  long options can also have arguments
 /V            DOS/VMS-style options too
 
-===========================================================================
+Simple table:
+
+===============   ===========      ==================================
 
 Release Version   Date             Descrption
 
-===========================================================================
+===============   ===========      ==================================
 
 V2.0              2022-03-07       Modify note on the second chapter.
 
 V1.0              2022-03-01       The first release.
 
-===========================================================================
+===============   ===========      ==================================
