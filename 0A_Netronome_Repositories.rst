@@ -82,9 +82,7 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 
 .. note::
 
-    The ethtool interface is only available for hosts running kernel 4.16 or
-    higher when using the in-tree driver. Please use the out of tree driver to
-    enable ethtool flashing on older kernels.
+    The ethtool interface is only available for hosts running kernel 4.16 or higher when using the in-tree driver. Please use the out of tree driver to enable ethtool flashing       on older kernels.
 
 
 
