@@ -65,7 +65,7 @@ Simple table:
 
 Release Version   Date             Descrption
 
-===============   ====             ==================================
+===============   ===========      ==================================
 
 V2.0              2022-03-07       Modify note on the second chapter.
 
