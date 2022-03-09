@@ -31,13 +31,13 @@ eg:
  
 **直接链接外部网址**
 
-eg:For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
+eg: For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
 **引用链接** 
 
 格式1    **`名称 <url>`_**
 
-eg:For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
+eg: For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
 
 格式2    **`名称`_ 换行后，两个点+一个空格+冒号+空格+url**
 
@@ -85,17 +85,13 @@ eg:
 
 Simple table:
 
-===============   ===========      ==================================
-
-Release Version   Date             Descrption
-
----------------   -----------      ----------------------------------
-
-V2.0              2022-03-07       Modify note on the second chapter.
-
-V1.0              2022-03-01       The first release.
-
-===============   ===========      ==================================
++----------------+--------------+-------------------------------------+
+| Release Version| Date         | Descrption                          |
++================+==============+=====================================+
+| V2.0           | 2022-03-07   | Modify note on the second chapter.  |
++----------------+--------------+-------------------------------------+
+| V1.0           | 2022-03-01   | The first release.                  |
++----------------+--------------+-------------------------------------+   
 
 1.6 XXXXXXXXXXX
 ------------------
