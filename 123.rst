@@ -33,7 +33,7 @@ rst文件编辑
 
 For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
 
-引用链接：格式是`名称 <url>`_
+引用链接：**格式是`名称 <url>`_**
 
 For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
 
