@@ -8,7 +8,7 @@ rst文件编辑
 
 **无序列表**
 
-（需要缩进，内容前加星号和一个空格）
+（需要缩进，内容+星号+一个空格）
  
 eg:
  
@@ -18,7 +18,7 @@ eg:
 
 **有序列表**
 
-（需要缩进，内容前加井号、一个点和一个空格）
+（需要缩进，内容+井号+一个点+一个空格）
 
 eg:
 
@@ -31,17 +31,23 @@ eg:
  
 **直接链接外部网址**
 
+eg:For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
+
+**引用链接** 
+
+格式1    **`名称 <url>`_**
+
+eg:For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
+
+格式2    **`名称`_ 换行后，两个点+一个空格+冒号+空格+url**
+
 eg:
 
-For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
+For details, see `Technical Support`_.
 
-**引用链接** 格式是`名称 <url>`_
+.. _: https://www.corigine.com.cn/cn/index.html
 
-eg:
-
-For details, see `Technical Support <https://www.corigine.com.cn/cn/index.html>`_.
-
-**链接内部链接**
+**链接内部链接**   两个点+一个空格+下划线+名称
 
 eg:
 
@@ -91,5 +97,5 @@ V1.0              2022-03-01       The first release.
 
 ===============   ===========      ==================================
 
-1.6 
--------------
+1.6 XXXXXXXXXXX
+------------------
