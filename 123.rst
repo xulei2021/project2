@@ -38,7 +38,7 @@ For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id
 
 举例：
 
-请参见以下示例
+请参见以下命令：
 :: 
 
  # cat /sys/module/nfp/srcversion
