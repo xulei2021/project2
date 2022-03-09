@@ -53,25 +53,6 @@ Update repository lists::
     # apt-get update
 
 
-列表样式
 
-* 无序列表
-  
- * 1 
- * 2
- * 3
 
-* 有序列表
 
- #. 111
- #. 222
- #. 333
-  
-For details, see https://zh-sphinx-doc.readthedocs.io/en/latest/tutorial.html#id3
-
-======
-Title
-======
-
--列表样式
--链接
